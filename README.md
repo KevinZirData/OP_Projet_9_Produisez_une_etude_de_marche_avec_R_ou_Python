@@ -1,6 +1,7 @@
 # OP_Projet_9_Produisez_une_etude_de_marche_avec_R_ou_Python
 Projet IX : Produisez une étude de marché avec R ou Python
 
+Scénario : 
 
 Vous travaillez chez La poule qui chante, une entreprise française d’agroalimentaire. Elle souhaite se développer à l'international.
 
@@ -45,5 +46,7 @@ Pièce jointe :
 
 Données New Food Balances (FAO)
  Vous avez toutes les cartes en main. À vous de jouer !
+ 
+Objectif
 
  ![image](https://github.com/KevinZirData/OP_Projet_9_Produisez_une_etude_de_marche_avec_R_ou_Python/assets/142809013/b714b0ff-fc8f-4122-bacf-1f32504cd5cf)
