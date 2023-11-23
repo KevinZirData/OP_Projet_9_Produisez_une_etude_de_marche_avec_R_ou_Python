@@ -50,6 +50,8 @@ Données New Food Balances (FAO)
 Objectifs :
 
  ![image](https://github.com/KevinZirData/OP_Projet_9_Produisez_une_etude_de_marche_avec_R_ou_Python/assets/142809013/b714b0ff-fc8f-4122-bacf-1f32504cd5cf)
+
+ 
 💡 Compétences du projet
 Compétences acquises 💡
 Outils utilisées
